@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Notemaking-React/static/css/main.e6c0d60a.chunk.css",
+    "main.js": "/Notemaking-React/static/js/main.9825d8ba.chunk.js",
+    "main.js.map": "/Notemaking-React/static/js/main.9825d8ba.chunk.js.map",
+    "runtime-main.js": "/Notemaking-React/static/js/runtime-main.f45b0387.js",
+    "runtime-main.js.map": "/Notemaking-React/static/js/runtime-main.f45b0387.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Notemaking-React/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6b9d4bcc.chunk.js": "/Notemaking-React/static/js/2.6b9d4bcc.chunk.js",
+    "static/js/2.6b9d4bcc.chunk.js.map": "/Notemaking-React/static/js/2.6b9d4bcc.chunk.js.map",
+    "index.html": "/Notemaking-React/index.html",
+    "precache-manifest.c1ee233219ba34a55765e570623a9747.js": "/Notemaking-React/precache-manifest.c1ee233219ba34a55765e570623a9747.js",
+    "service-worker.js": "/Notemaking-React/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Notemaking-React/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e6c0d60a.chunk.css.map": "/Notemaking-React/static/css/main.e6c0d60a.chunk.css.map",
+    "static/js/2.6b9d4bcc.chunk.js.LICENSE.txt": "/Notemaking-React/static/js/2.6b9d4bcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f45b0387.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6b9d4bcc.chunk.js",
+    "static/css/main.e6c0d60a.chunk.css",
+    "static/js/main.9825d8ba.chunk.js"
+  ]
+}
