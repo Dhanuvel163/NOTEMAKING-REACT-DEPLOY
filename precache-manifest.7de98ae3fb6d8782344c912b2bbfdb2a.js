@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a2e86a3db86a019b9bc559d827c817b",
+    "revision": "5cada200952f77e92f3b879ddb130fcf",
     "url": "/Notemaking-React/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Notemaking-React/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "a0cf251dd8eb9dcc5c83",
+    "revision": "ee1db749767ce84b80b6",
     "url": "/Notemaking-React/static/css/main.e6c0d60a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Notemaking-React/static/js/2.6b9d4bcc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0cf251dd8eb9dcc5c83",
-    "url": "/Notemaking-React/static/js/main.9825d8ba.chunk.js"
+    "revision": "ee1db749767ce84b80b6",
+    "url": "/Notemaking-React/static/js/main.e9448a47.chunk.js"
   },
   {
     "revision": "fc47ea253bb0822aa1ec",
