@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Notemaking-React/static/css/main.e6c0d60a.chunk.css",
-    "main.js": "/Notemaking-React/static/js/main.e9448a47.chunk.js",
-    "main.js.map": "/Notemaking-React/static/js/main.e9448a47.chunk.js.map",
-    "runtime-main.js": "/Notemaking-React/static/js/runtime-main.f45b0387.js",
-    "runtime-main.js.map": "/Notemaking-React/static/js/runtime-main.f45b0387.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/Notemaking-React/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.6b9d4bcc.chunk.js": "/Notemaking-React/static/js/2.6b9d4bcc.chunk.js",
-    "static/js/2.6b9d4bcc.chunk.js.map": "/Notemaking-React/static/js/2.6b9d4bcc.chunk.js.map",
-    "index.html": "/Notemaking-React/index.html",
-    "precache-manifest.8249f1f25e9f6e5709c3d0a846dfa514.js": "/Notemaking-React/precache-manifest.8249f1f25e9f6e5709c3d0a846dfa514.js",
-    "service-worker.js": "/Notemaking-React/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/Notemaking-React/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e6c0d60a.chunk.css.map": "/Notemaking-React/static/css/main.e6c0d60a.chunk.css.map",
-    "static/js/2.6b9d4bcc.chunk.js.LICENSE.txt": "/Notemaking-React/static/js/2.6b9d4bcc.chunk.js.LICENSE.txt"
+    "main.css": "/NOTEMAKING-REACT-DEPLOY/static/css/main.e6c0d60a.chunk.css",
+    "main.js": "/NOTEMAKING-REACT-DEPLOY/static/js/main.ba1ccafe.chunk.js",
+    "main.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/main.ba1ccafe.chunk.js.map",
+    "runtime-main.js": "/NOTEMAKING-REACT-DEPLOY/static/js/runtime-main.2fcf64aa.js",
+    "runtime-main.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/runtime-main.2fcf64aa.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/NOTEMAKING-REACT-DEPLOY/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6b9d4bcc.chunk.js": "/NOTEMAKING-REACT-DEPLOY/static/js/2.6b9d4bcc.chunk.js",
+    "static/js/2.6b9d4bcc.chunk.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/2.6b9d4bcc.chunk.js.map",
+    "index.html": "/NOTEMAKING-REACT-DEPLOY/index.html",
+    "precache-manifest.9f330886cf42f53d637095910e68f54a.js": "/NOTEMAKING-REACT-DEPLOY/precache-manifest.9f330886cf42f53d637095910e68f54a.js",
+    "service-worker.js": "/NOTEMAKING-REACT-DEPLOY/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/NOTEMAKING-REACT-DEPLOY/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e6c0d60a.chunk.css.map": "/NOTEMAKING-REACT-DEPLOY/static/css/main.e6c0d60a.chunk.css.map",
+    "static/js/2.6b9d4bcc.chunk.js.LICENSE.txt": "/NOTEMAKING-REACT-DEPLOY/static/js/2.6b9d4bcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f45b0387.js",
+    "static/js/runtime-main.2fcf64aa.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.6b9d4bcc.chunk.js",
     "static/css/main.e6c0d60a.chunk.css",
-    "static/js/main.e9448a47.chunk.js"
+    "static/js/main.ba1ccafe.chunk.js"
   ]
 }
