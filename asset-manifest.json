@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/NOTEMAKING-REACT-DEPLOY/static/css/main.cece3cd0.chunk.css",
-    "main.js": "/NOTEMAKING-REACT-DEPLOY/static/js/main.e014f70d.chunk.js",
-    "main.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/main.e014f70d.chunk.js.map",
+    "main.css": "/NOTEMAKING-REACT-DEPLOY/static/css/main.cef01bf6.chunk.css",
+    "main.js": "/NOTEMAKING-REACT-DEPLOY/static/js/main.3756deb5.chunk.js",
+    "main.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/main.3756deb5.chunk.js.map",
     "runtime-main.js": "/NOTEMAKING-REACT-DEPLOY/static/js/runtime-main.2fcf64aa.js",
     "runtime-main.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/runtime-main.2fcf64aa.js.map",
     "static/css/2.af3c1da9.chunk.css": "/NOTEMAKING-REACT-DEPLOY/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.03962dea.chunk.js": "/NOTEMAKING-REACT-DEPLOY/static/js/2.03962dea.chunk.js",
-    "static/js/2.03962dea.chunk.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/2.03962dea.chunk.js.map",
+    "static/js/2.73810829.chunk.js": "/NOTEMAKING-REACT-DEPLOY/static/js/2.73810829.chunk.js",
+    "static/js/2.73810829.chunk.js.map": "/NOTEMAKING-REACT-DEPLOY/static/js/2.73810829.chunk.js.map",
     "index.html": "/NOTEMAKING-REACT-DEPLOY/index.html",
-    "precache-manifest.4b365eff8bbb8df12104b860b333dd98.js": "/NOTEMAKING-REACT-DEPLOY/precache-manifest.4b365eff8bbb8df12104b860b333dd98.js",
+    "precache-manifest.5cb5619437281376e5b7e167b3baf420.js": "/NOTEMAKING-REACT-DEPLOY/precache-manifest.5cb5619437281376e5b7e167b3baf420.js",
     "service-worker.js": "/NOTEMAKING-REACT-DEPLOY/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/NOTEMAKING-REACT-DEPLOY/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.cece3cd0.chunk.css.map": "/NOTEMAKING-REACT-DEPLOY/static/css/main.cece3cd0.chunk.css.map",
-    "static/js/2.03962dea.chunk.js.LICENSE.txt": "/NOTEMAKING-REACT-DEPLOY/static/js/2.03962dea.chunk.js.LICENSE.txt"
+    "static/css/main.cef01bf6.chunk.css.map": "/NOTEMAKING-REACT-DEPLOY/static/css/main.cef01bf6.chunk.css.map",
+    "static/js/2.73810829.chunk.js.LICENSE.txt": "/NOTEMAKING-REACT-DEPLOY/static/js/2.73810829.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2fcf64aa.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.03962dea.chunk.js",
-    "static/css/main.cece3cd0.chunk.css",
-    "static/js/main.e014f70d.chunk.js"
+    "static/js/2.73810829.chunk.js",
+    "static/css/main.cef01bf6.chunk.css",
+    "static/js/main.3756deb5.chunk.js"
   ]
 }
